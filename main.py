@@ -139,12 +139,3 @@ while True:
 
     pygame.display.flip()
     fpsController.tick(15)
-
-
-
-
-
-
-gameOver()
-
-time.sleep(5)
